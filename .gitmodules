@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/godcomplex26/api.git
+[submodule "malmap_frontend"]
+	path = malmap_frontend
+	url = https://github.com/godcomplex26/malmap_frontend.git
